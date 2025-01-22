@@ -23,3 +23,19 @@ Return True for the following cases:
 Otherwise, return False.
 
 ---
+
+**Min and Max in Array - Python**
+<br>
+Given an array arr. Your task is to find the minimum and maximum elements in the array.
+
+Note: Return a Pair that contains two elements the first one will be a minimum element and the second will be a maximum.
+
+---
+
+**Regular Expressions 2 - Python**
+<br>
+In this question, we'll use Regex to validate a password. You will be provided a string str which you have to validate.
+
+The validation rules are as follows:
+- The string is valid only if it starts with lowercase characters, followed by special characters !@#$% followed by numbers.
+- In any other case the string is not valid.
