@@ -1,7 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 24 23:13:42 2025
+def multiplicationTable(N):
+    result = []
+    for i in range(1, 11):
+        result.append(N * i)
+    print(" ".join(map(str, result)))
 
-@author: user
-"""
 
+multiplicationTable(5)
